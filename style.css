@@ -95,6 +95,7 @@ body {
     padding: 30px;
     display: grid;
     grid-template-columns: 1fr 4fr;
+    align-items: center;
     background: var(--dark-magenta);
     border:hsl(0, 0%, 100%) 1px solid;
     border-radius: 15px;
