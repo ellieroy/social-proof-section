@@ -149,6 +149,7 @@ body {
       .container {
           margin: 75px 22px !important;
           width: 100vw;
+          max-width: 325px;
       }
 
       .top-section {
